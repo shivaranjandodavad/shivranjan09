@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @shivranjan09 Shivaranjan Dodavad
-- 🌱 ASE Trainee TCS(Oct 2021 to Nov 2022)
+- 🌱 Ex-Tcser(Oct 2021 to Nov 2022)
