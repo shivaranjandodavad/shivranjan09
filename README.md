@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @shivranjan09 Shivaranjan Dodavad
-- 🌱 Software Engineer Ex-Tcser(Oct 2021 to Nov 2022)
+- 🌱 Software Engineer@GLobalLogic
+- Ex-Tcser(Oct 2021 to Nov 2022)
